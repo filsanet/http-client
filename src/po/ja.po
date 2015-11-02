@@ -56,19 +56,19 @@ msgstr ""
 
 #: profile/_pgcr.html:34
 msgid "Alpha"
-msgstr ""
+msgstr "アルファー"
 
 #: profile/_character.html:29
 msgid "Armor"
-msgstr ""
+msgstr "鎧"
 
 #: faq.html:38
 msgid "As your score rises and falls, you'll be categorized into leagues."
-msgstr ""
+msgstr "スコアが上がると下がる、リーグに分かれてます。"
 
 #: profile/_pgcr.html:32
 msgid "Average Team Elo"
-msgstr ""
+msgstr "平均チームELO"
 
 #: shared/service/consts.js:169
 msgid "Bladedancer"
@@ -76,23 +76,23 @@ msgstr "ブレードダンサー"
 
 #: profile/_pgcr.html:39
 msgid "Bravo"
-msgstr ""
+msgstr "ブラボー"
 
 #: shared/chart/elo.js:129 shared/service/consts.js:37
 msgid "Bronze"
-msgstr ""
+msgstr "ブロンズ"
 
 #: faq.html:43
 msgid "Bronze: 0-1099"
-msgstr ""
+msgstr "ブロンズ: 0-1099"
 
 #: index.html:183
 msgid "Bungie API Error"
-msgstr ""
+msgstr "Bungie API　エラー"
 
 #: search.html:4
 msgid "Choose your platform"
-msgstr ""
+msgstr "ゲーム機を選ぶ"
 
 #: index.html:113 index.html:74 profile/_activity-history.html:39
 #: shared/service/consts.js:99
@@ -119,11 +119,11 @@ msgstr "ディフェンダー"
 
 #: shared/chart/elo.js:69 shared/service/consts.js:81
 msgid "Diamond"
-msgstr ""
+msgstr "ダイヤモンド"
 
 #: faq.html:47
 msgid "Diamond: 1700+"
-msgstr ""
+msgstr "ダイヤモンド: 1700+"
 
 #: index.html:160
 msgid "Donate"
@@ -173,23 +173,23 @@ msgstr ""
 
 #: shared/chart/elo.js:99 shared/service/consts.js:59
 msgid "Gold"
-msgstr ""
+msgstr "ゴールド"
 
 #: faq.html:45
 msgid "Gold: 1300-1499"
-msgstr ""
+msgstr "ゴールド: 1300-1499"
 
 #: profile/_pgcr.html:4
 msgid "Guardian"
-msgstr ""
+msgstr "ガーディアン"
 
 #: index.html:172
 msgid "Guardian..."
-msgstr ""
+msgstr "ガーディアン..."
 
 #: index.html:3
 msgid "Guardian.gg - Advanced Destiny Stats, Profiles and Leaderboards"
-msgstr ""
+msgstr "Guardian.gg - 先進したデスティニーランキングサイト"
 
 #: shared/service/consts.js:159
 msgid "Gunslinger"
@@ -197,7 +197,7 @@ msgstr "ガンスリンガー"
 
 #: index.html:55
 msgid "Home"
-msgstr ""
+msgstr "ホーム"
 
 #: faq.html:17
 msgid "How accurate is this data?"
@@ -209,7 +209,7 @@ msgstr ""
 
 #: faq.html:63
 msgid "How do I get in touch if I have a question/suggestion?"
-msgstr ""
+msgstr "質問やコメントがあるときに、連絡する方法がありますか？"
 
 #: shared/service/consts.js:123
 msgid "Hunter"
@@ -223,13 +223,13 @@ msgstr "アイアンバナー"
 #. Short for kills
 #: leaderboard.html:61 profile/_activity-history.html:64 profile/_pgcr.html:7
 msgid "K"
-msgstr ""
+msgstr "K"
 
 #. Short for kills / deaths
 #: leaderboard.html:64 profile/_activity-history.html:67
 #: profile/_pgcr.html:10
 msgid "K/D"
-msgstr ""
+msgstr "K/D"
 
 #: shared/chart/kd.js:16
 msgid "Kills / Deaths"
@@ -261,7 +261,7 @@ msgstr ""
 
 #: profile/_activity-history.html:62
 msgid "Map"
-msgstr ""
+msgstr "地図"
 
 #: profile/_activity-history.html:23
 msgid "Match History"
@@ -423,11 +423,11 @@ msgstr "サンシンガー"
 
 #: profile/_character.html:52
 msgid "Super"
-msgstr ""
+msgstr "スーパー"
 
 #: profile/_pgcr.html:3
 msgid "Team"
-msgstr ""
+msgstr "チーム"
 
 #: faq.html:27
 msgid ""
@@ -486,4 +486,4 @@ msgstr ""
 
 #: faq.html:65
 msgid "You can fire us an email at"
-msgstr ""
+msgstr "メールで連絡してください："
